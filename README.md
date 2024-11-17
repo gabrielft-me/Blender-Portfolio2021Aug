@@ -39,20 +39,7 @@ The website serves as a portfolio to highlight my 3D rendering work done in Blen
 - Managing interactive elements and animations with JavaScript.
 - Ensuring compatibility across different browsers.
 
-## How to View the Project
-
-You can view the website live here: [Blender Portfolio]([https://your-github-username.github.io/Blender-Portfolio2021Aug/](https://blender.gabrielft.me/))  
-
-## Future Enhancements
-
-- Adding more sections to showcase new 3D renders.
-- Improving accessibility for better usability.
-- Integrating contact forms or social media links.
-
 ## Acknowledgements
 
-Special thanks to the amazing tutorials and resources available online, which helped me build my first project!
+Special thanks to the amazing Indian tutorials and resources available online!
 
----
-
-Feel free to explore the project and share your feedback!
