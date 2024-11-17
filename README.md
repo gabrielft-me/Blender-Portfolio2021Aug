@@ -41,8 +41,7 @@ The website serves as a portfolio to highlight my 3D rendering work done in Blen
 
 ## How to View the Project
 
-You can view the website live here: [Blender Portfolio](https://your-github-username.github.io/Blender-Portfolio2021Aug/)  
-(*Replace this link with the actual GitHub Pages URL after deployment.*)
+You can view the website live here: [Blender Portfolio]([https://your-github-username.github.io/Blender-Portfolio2021Aug/](https://blender.gabrielft.me/))  
 
 ## Future Enhancements
 
