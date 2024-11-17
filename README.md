@@ -1,6 +1,6 @@
 # Blender Portfolio
 
-This is my **first frontend project**, showcasing my journey as an aspiring interior designer and 3D rendering enthusiast. The entire website was built using **native HTML, CSS, and JavaScript**, without relying on frameworks or libraries.
+This is my **first frontend project** done in 2021, showcasing my journey as an aspiring interior designer and 3D rendering enthusiast. The entire website was built using **native HTML, CSS, and JavaScript**, without relying on frameworks or libraries.
 
 ## Project Overview
 
